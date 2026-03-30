@@ -1,0 +1,9 @@
+
+{
+    displayName: "Mejora: Cintas"
+    name: "sintas-rapidas"
+    author: "cuotapepro"
+    description: "ase a las sintas mas rapidas."
+    version: "1.0"
+    minGameVersion: 140
+}
